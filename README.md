@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/shifasaifullakhan08-hub">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=602&text=Hello!%20I'm%20Shifa" alt="Hello! I&#39;m Shifa" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=a64d79&fontSize=54&height=90&width=602&text=Hello!%20I'm%20Shifa" alt="Hello! I&#39;m Shifa" />
   </a>
 </p>
 
